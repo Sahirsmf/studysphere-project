@@ -88,11 +88,3 @@ studysphere-project/
 └── index.php
 ```
 > Update this section to match your actual folder layout.
-
-## Contributing
-
-Contributions are welcome. Fork the repo, create a feature branch, and open a pull request describing your changes.
-
-## License
-
-`[Add your chosen license here, e.g. MIT]`
